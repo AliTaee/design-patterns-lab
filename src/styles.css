@@ -1,0 +1,12 @@
+/* On this repo I'm more focused on Design Patterns
+so there is not much css style. and we are using MUI components 
+to make things simpler. */
+body {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
