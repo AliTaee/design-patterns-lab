@@ -4,3 +4,4 @@ Examples:
 
 - shape
 - user
+- rock-paper-scissors
